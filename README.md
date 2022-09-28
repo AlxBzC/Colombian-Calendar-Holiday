@@ -1,3 +1,8 @@
+_____________________________________________________________________________________________________________
+Calendar made with REACT that indicates the holidays of Colombia, through the consumption of an API.
+_____________________________________________________________________________________________________________
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
